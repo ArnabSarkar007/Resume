@@ -1,2 +1,2 @@
 # Resume
-I have created my resume from scratch using HTML 5.
+I have created my resume from scratch using HTML.
